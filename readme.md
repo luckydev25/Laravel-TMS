@@ -1,13 +1,11 @@
 # Laravel Project Task Manager
 
 A simple task manager app built with Laravel 5.4.33
-  
-### *** New version with Laravel 8.x and Livewire/TailwindCSS coming soon ***
 
 ### How to install 🤔
-(1). Simply [download](https://github.com/luckydev25/Laravel-Project-mgmt/archive/master.zip) or clone the repo:
+(1). Simply [download](https://github.com/luckydev25/Laravel-TMS/archive/refs/heads/main.zip) or clone the repo:
 ```
-git clone https://github.com/luckydev25/Laravel-Project-mgmt.git
+git clone https://github.com/luckydev25/Laravel-TMS.git
 ```
 
 (2) Run composer install to get all the dependencies specified in the composer.lock file
